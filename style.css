@@ -1,0 +1,17 @@
+/*Hader Button*/
+.site-button{
+    width: 168px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #3F87F5;
+    color: white;
+    border: 0px;
+}
+.my{
+    color: aquamarine;
+}
+
+.hovar-card:hover{
+    background-color: aquamarine !important;
+    transition: background-color 1s ;
+}
