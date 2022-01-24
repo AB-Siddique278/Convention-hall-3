@@ -1,21 +1,13 @@
-
+/*google fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
 }
 
 
-/*Hader Button*/
-.site-button{
-    width: 168px;
-    height: 44px;
-    border-radius: 10px;
-    background-color: #3F87F5;
-    color: white;
-    border: 0px;
-}
-.my{
-    color: aquamarine;
+/*card section*/
+.icon{
+    color: #3F87F5;
 }
 
 .hovar-card:hover{
