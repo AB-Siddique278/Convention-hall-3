@@ -19,7 +19,13 @@
 }
 
 .hovar-card:hover{
-    background-color: aquamarine !important;
-    transition: background-color 1s ;
+    box-shadow: 0 0 11px #33478bab !important; 
+    transition: all 0.3 ease !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    -webkit-transform: scale(1.1) !important;
+    -ms-transform: scale(1.1) !important;
+    transform: scale(1.1) !important;
+    z-index: 2;
 }
 
